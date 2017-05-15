@@ -28,7 +28,7 @@ def holiday(work):
         <!-- SOCIAL CARDS (ADD YOUR INFO) -->
 
         <!-- FAVICONS -->
-        <link rel="shortcut icon" sizes="16x16" href="static/images/favicons/unisworks.png">
+        <link rel="shortcut icon" sizes="16x16" href="static/images/favicons/soso-heart.png">
 
         <!-- Android -->
         <meta name="mobile-web-app-capable" content="yes">
@@ -92,7 +92,8 @@ def holiday(work):
                   <br/>
                   <br/>
                   <br/>
-                  <h4 class="fadeIn"><strong>{}</strong>
+                  <h4 class="fadeIn">
+                    <strong>{}</strong>
                   </h4>
                   <p class="text-intro fadeIn">{}
                   </p>
